@@ -3,17 +3,23 @@ Modularizando seu código com Requirejs
 
 Projeto apresentado no evento <a href="http://www.javaneiros.com.br/">Javaneiros 2014</a>.
 
-Pré-requisitos:
+## Pré-requisitos
 - Node.js
 - Grunt
 
-Execute:
-- node run.js
+## Executar
+```bash
+$ node run.js
+```
 - Abra o navegador na url: http://localhost:3000
 
-Versão minificada:
-- node rundist.js
+## Versão minificada:
+```bash
+$ node rundist.js
+```
 
-Minificando:
+## Minificando:
 Navegue para dentro da pasta do projeto e execute o seguinte comando.
-- grunt 
+```bash
+$ grunt 
+```
