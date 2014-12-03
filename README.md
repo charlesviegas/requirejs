@@ -1,7 +1,7 @@
 Modularizando seu código com Requirejs
 =========
 
-Projeto apresentado no evento Javaneiros 2014.
+Projeto apresentado no evento <a href="http://www.javaneiros.com.br/">Javaneiros 2014</a>.
 
 Pré-requisitos:
 - Node.js
